@@ -4,10 +4,10 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blueprint: Filterable Product Grid</title>
-    <meta name="description" content="Blueprint: A responsive product grid layout with touch-friendly Flickity galleries and Isotope-powered filter functionality." />
-    <meta name="keywords" content="blueprint, template, layout, grid, responsive, products, store, filter, isotope, flickity" />
-    <meta name="author" content="Codrops" />
+    <title>Glorydel's Product Catalogue</title>
+    <meta name="description" content="Glorydel's product catalogue including perfume and beauty products" />
+    <meta name="keywords" content="" />
+    <meta name="author" content="Abel's Website Development" />
     <link rel="shortcut icon" href="favicon.ico">
     <!-- Font Awesome -->
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
