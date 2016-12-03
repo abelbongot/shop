@@ -20,6 +20,12 @@
     <!-- Component styles -->
     <link rel="stylesheet" type="text/css" href="css/component.css" />
     <script src="js/modernizr.custom.js"></script>
+    <style type="text/css">
+        a:hover {
+            color: #ffffff;
+            /*color: #5C5EDC;*/
+        }
+    </style>
 </head>
 <body>
 
